@@ -1,4 +1,58 @@
-INFO:root:Programm started
-INFO:root:Users nuber is 10
-INFO:root:Programm started
-INFO:root:Users nuber is 10
+INFO:root:User started program
+INFO:root:Users input 4
+INFO:root:ValueError.
+INFO:root:User started program
+INFO:root:Users input 4
+INFO:root:Users input 6
+INFO:root:Users input 7
+INFO:root:Users input 2
+INFO:root:User started program
+INFO:root:Users input 5
+INFO:root:Users input 4
+INFO:root:Users input 3
+INFO:root:Users input 8
+INFO:root:ValueError.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:User started program
+INFO:root:Users input 5
+INFO:root:Users input 7
+INFO:root:Users input 3
+INFO:root:Users input 4
+INFO:root:Users entered figure: 1
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 5
+INFO:root:Users input 7
+INFO:root:Users input 6
+INFO:root:Users input 8
+INFO:root:Users entered figure: 2
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 9
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 8
+INFO:root:Users input 3
+INFO:root:Users input 7
+INFO:root:Users input 1
+INFO:root:Users entered figure: 4
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 4
+INFO:root:Users input 3
+INFO:root:Users input 2
+INFO:root:Users input 1
+INFO:root:Users entered figure: 3
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
